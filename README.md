@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
-- ⚡ Fun fact **A group of Pugs is called a grumble.**
+- ⚡ Fun fact **A group of Pugs is called a grumble**
 
 
 
