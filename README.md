@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dennis</h1>
-<h3 align="center">An inspiring web developer from Germany</h3>
+<h3 align="center">An aspiring web developer from Germany</h3>
 
 - 🔭 I’m currently working on **different projects**
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
-- ⚡ Fun fact **A group of Pugs is called a grumble**
+- ⚡ Fun fact **a group of Pugs is called a grumble**
 
 
 
